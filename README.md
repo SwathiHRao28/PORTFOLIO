@@ -25,4 +25,4 @@ I am a 3rd-year Computer Science Engineering student at PES University, interest
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/SwathiHRao28/<repo-name>.git
+git clone https://github.com/SwathiHRao28/PORTFOLIO.git
